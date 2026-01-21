@@ -22,6 +22,14 @@ A custom macro keypad based on the Seeed XIAO RP2040. Designed in KiCad and Fusi
 ### 3D Printed Case
 ![Case](Images/3d_case.png)
 
+### Assembly Preview
+The PCB fits perfectly inside the custom 3D printed case (designed with 0.4mm clearance).
+![Assembly Preview](Images/transparent_case1.png)
+
+![Assembly_Preview2](Images/full_3d_case.png)
+
+![Assembly_Preview3](Images/3d_case_pcb_upper.png)
+
 ---
 
 ## Bill of Materials (BOM)
