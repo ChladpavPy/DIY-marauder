@@ -27,7 +27,6 @@
 #define OLED_ADDR_1 0x3C
 #define OLED_ADDR_2 0x3D
 
-// Optional battery/ADC meter. Leave disabled unless you wire a safe divider.
 #define BATTERY_ADC_PIN -1
 #define BATTERY_DIVIDER_RATIO 2.0f
 
