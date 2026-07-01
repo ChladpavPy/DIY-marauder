@@ -44,6 +44,9 @@ The PCB fits perfectly inside the custom 3D printed case (designed with 0.4mm cl
 
 ![Assembly Preview_xiao](Images/case6.png)
 
+### Build Preview
+![Build preview](Images/build1.png)
+![Build preview](Images/build2.png)
 ---
 
 ## Bill of Materials (BOM)
