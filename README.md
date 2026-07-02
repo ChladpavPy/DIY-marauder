@@ -96,6 +96,8 @@ Looking at the final build it is definitely a prototype. The hot glue and the mi
 ![Build preview](Images/marauder_case.jpeg)
 ![Build preview](Images/marauder_case_rework1.jpeg)
 ![Build preview](Images/marauder_case_rework2.jpeg)
+![Build preview](Images/arduino_1test.png)
+
 
 2. journal - writing the firmware and flashing the device - 4 hours 20 minutes
 After the hardware was somewhat assembled, I had to actually make it do something useful. I did not want this to be just a simple script, I wanted a standalone tool for network analysis. Since my plan to use a scavenged grill encoder failed, I had to rely entirely on the two Cherry MX switches. This meant I could not just use a standard library for the menu, so I had to write a custom UI system from scratch. I built a scrollable menu interface that dynamically adjusts to the OLED screen. Writing a state machine for the button debouncing to handle both short and long presses took way more time than I expected, but it was necessary to make the navigation feel responsive.
