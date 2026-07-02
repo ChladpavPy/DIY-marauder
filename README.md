@@ -87,6 +87,12 @@ Looking back considering this was my first pcb I did some pretty stupid things. 
 I had to fix the hole somehow. I tried sandpaper but that would have taken hours so I went for the radical solution. I grabbed a soldering iron and just ugly-melted the opening bigger despite breathing in all those plastic fumes. It did the trick and the cable fits now. Obviously I did not use my good soldering iron for that just an old destroyed one that was a year old anyway so it does not really matter.
 Looking at the final build it is definitely a prototype. The hot glue and the missing encoder do not look professional but the core engineering is solid. I designed the pcb figured out the mechanical mounting for the switches and wrote a custom os for it. It works as a pocket-sized pentesting node. That wrapped up the soldering and assembly. I then started programming and testing the board but I will write about that in the next journal entry.
 
+![Build preview](Images/marauder_start.jpeg)
+![Build preview](Images/grill2.jpeg)
+![Build preview](Images/grill1.jpeg)
+![Build preview](Images/build_view3.jpeg)
+![Build preview](Images/build_view1.jpeg)
+![Build preview](Images/case_opened.jpeg)
 ![Build preview](Images/marauder_case.jpeg)
 ![Build preview](Images/marauder_case_rework1.jpeg)
 ![Build preview](Images/marauder_case_rework2.jpeg)
