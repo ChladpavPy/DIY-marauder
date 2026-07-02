@@ -109,5 +109,5 @@ The firmware itself is around 1100 lines of C++ code. I implemented a WiFi scann
 ![Build preview](Images/menu.jpeg)
 
 
-also regarding the BOM in readme I did not have there links since it should have been shipped from hacklub HQ, but actually updated them and addem them, the only difference would be probably just the performance and that I would not have access to wifi functions with RP2040 otherwise the firmware should be suitable for both devices. - this was a HACKPAD
+also regarding the BOM in readme I did not have there links since it should have been shipped from hacklub HQ, but actually updated them and addem them because I have used different, which was caused by the delivery problems, the only difference would be probably just the performance and that I would not have access to wifi functions with RP2040 otherwise the firmware should be suitable for both devices. - this was a HACKPAD
 
