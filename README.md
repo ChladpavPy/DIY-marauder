@@ -99,13 +99,14 @@ Looking at the final build it is definitely a prototype. The hot glue and the mi
 ![Build preview](Images/marauder_case_rework1.jpeg)
 ![Build preview](Images/marauder_case_rework2.jpeg)
 ![Build preview](Images/marauder_test1.png)
-![Build preview](Images/marauder_test_final.png)
 
 
 2. journal - writing the firmware and flashing the device - 4 hours 20 minutes
 After the hardware was somehow assembled, I had to actually make it do something useful. I did not want this to be just a simple script, I wanted a standalone tool for network analysis. Since my plan to use a scavenged grill encoder failed, I had to rely entirely on the two Cherry MX switches. This meant I could not just use a standard library for the menu, so I had to write a custom UI system from scratch. I built a scrollable menu interface that dynamically adjusts to the OLED screen. Writing a state machine for the button debouncing to handle both short and long presses took way more time than I expected, but it was necessary to make the navigation feel responsive.
 The firmware itself is around 1100 lines of C++ code. I implemented a WiFi scanner and analyzer that scans 2.4GHz bands, grabs RSSI, encryption types and MAC addresses. I even added a visual channel analyzer to see where the interference is. Then I added a BLE scanner to find Bluetooth devices around and sort them by signal strength. Since this is meant to be portable, I also implemented a deep sleep mode to save power when it is not actively scanning. Getting the display library to play nice with the specific I2C pins I routed on my PCB required some tweaking, but once the display initialized, it was incredibly satisfying. Looking at the final build, it is definitely a prototype. The hot glue and the missing encoder do not look exactly professional, but the core engineering is solid. I designed the PCB, figured out the mechanical mounting for the switches, and wrote a completely custom OS for it. It works good as a pocket sized pentesting device and even integrated a encoder detection system since I have not got encoder to make it work although I dont have it. I am actually also really amazed what you can actually do with just a esp32 with just 7 pins and also with small 0.96 inch display
-
+![Build preview](Images/marauder_test_final.png)
+![Build preview](Images/MARAUDER_BUILD.jpeg)
+![Build preview](Images/arduino_firmware.png)
 ![Build preview](Images/build_solution_bad.jpeg)
 ![Build preview](Images/MARAUDER_BUILD.jpeg)
 ![Build preview](Images/menu.jpeg)
