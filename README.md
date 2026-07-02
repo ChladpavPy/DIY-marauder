@@ -92,7 +92,7 @@ Looking at the final build it is definitely a prototype. The hot glue and the mi
 ![Build preview](Images/grill1.jpeg)
 ![Build preview](Images/build_view3.jpeg)
 ![Build preview](Images/build_view1.jpeg)
-![Build preview](Images/case_improvization.png)
+![Build preview](Images/case_improvization.jpeg)
 ![Build preview](Images/case_opened.jpeg)
 ![Build preview](Images/marauder_case.jpeg)
 ![Build preview](Images/marauder_case_rework1.jpeg)
