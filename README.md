@@ -75,7 +75,7 @@ Here is the updated BOM, previously I would have used XIAO RP2040, but since the
 * **3D_Models:** STL and STEP files for printing.
 
 Journals - 
-I am sorry for the missunderstanding, I thought that I was just submitting it for design review at first in stasis, however somehow it shows that it was submitted for build review, so I am adding the journals that I wanted to write in stasis there with time - I hope that it will be okay like this : Journals - 
+I am sorry for the missunderstanding, I thought that I was just submitting it for design review at first in stasis and I noticed it just now, however somehow it shows that it was submitted for build review, so I am adding the journals that I wanted to write in stasis there with time - I hope that it will be okay like this : Journals - 
 
 1. journal - soldering and first testing - 4 hours
 
