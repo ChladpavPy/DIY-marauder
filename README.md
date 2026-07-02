@@ -57,15 +57,15 @@ Here is the updated BOM, previously I would have used XIAO RP2040, but since the
 
 ## Bill of Materials (BOM)
 
-| Component | Quantity | Description |
-| :--- | :---: | :--- |
-| [**Seeed XIAO ESP32S3**](https://botland.cz/moduly-wifi-a-bt-esp32/22878-seeed-xiao-esp32-s3-wifi-bluetooth-seeedstudio-113991114.html) | 1 | Microcontroller (Used instead of RP2040 due to delivery issues) |
-| [**0.96" OLED Display**](https://a.aliexpress.com/_EGSrJ7g) | 1 | I2C, SSD1306 driver (Swapped from 0.91") |
-| [**EC11 Rotary Encoder**](https://www.sparkfun.com/products/9117) | 1 | With push button |
-| [**MX Mechanical Switches**](https://a.aliexpress.com/_EuLENRY) | 2 | 3-pin or 5-pin (Sourced from previous build) |
-| [**Keycaps**](https://a.aliexpress.com/_Eyx6JJo) | 2 | For MX switches |
-| [**Knob**](https://www.sparkfun.com/products/10597) | 1 | For encoder |
-| **3D Printed Case** | 1 | Files in `3D_Models` folder |
+| Component | Qty | Purpose / Description | Price (USD) | Link / Distributor |
+| :--- | :---: | :--- | :--- | :--- |
+| **Seeed XIAO ESP32S3** | 1 | Microcontroller (Used instead of RP2040 due to delivery issues). | ~$7.50 | [Botland](https://botland.cz/moduly-wifi-a-bt-esp32/22878-seeed-xiao-esp32-s3-wifi-bluetooth-seeedstudio-113991114.html) |
+| **0.96" I2C OLED Display** | 1 | Screen to show UI and analysis data (Swapped from 0.91"). | ~$2.00 | [AliExpress](https://a.aliexpress.com/_EGSrJ7g) |
+| **EC11 Rotary Encoder** | 1 | Navigation control with push button. | ~$1.50 | [SparkFun](https://www.sparkfun.com/products/9117) |
+| **Cherry MX Switches** | 2 | Secondary input buttons (Sourced from previous build). | ~$6.08 | [AliExpress](https://a.aliexpress.com/_EuLENRY) |
+| **1U Blank Keycaps** | 2 | Standard covers for the mechanical switches. | ~$3.35 | [AliExpress](https://a.aliexpress.com/_Eyx6JJo) |
+| **Knob** | 1 | Cap for the rotary encoder. | ~$1.50 | [SparkFun](https://www.sparkfun.com/products/10597) |
+| **3D Printed Case** | 1 | Enclosure. Files in `3D_Models` folder. | $0.00 | N/A |
 
 ---
 
