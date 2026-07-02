@@ -1,5 +1,7 @@
 # DIY Marauder
 
+I have made this project because it was my first ever pcb project and I started with blueprint, I wanted something cool looking, like pentesting device for ethical hacking and as a experimental gadget that I could programm whatever way I wanted to do something cool and finally bring the code to life.
+
 A custom macro keypad based on the Seeed XIAO RP2040. Designed in KiCad and Fusion 360.
 
 ## Project Features
