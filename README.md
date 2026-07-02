@@ -10,6 +10,11 @@ A custom macro keypad based on the Seeed XIAO RP2040. Designed in KiCad and Fusi
 
 ## Gallery
 
+### Build Preview
+![Build preview](Images/build1.png)
+![Build preview](Images/build2.png)
+![Build preview](Images/build3.png)
+
 ### Schematic
 ![Schematic](Images/sch.png)
 
@@ -44,10 +49,6 @@ The PCB fits perfectly inside the custom 3D printed case (designed with 0.4mm cl
 
 ![Assembly Preview_xiao](Images/case6.png)
 
-### Build Preview
-![Build preview](Images/build1.png)
-![Build preview](Images/build2.png)
-![Build preview](Images/build3.png)
 ---
 
 ## Bill of Materials (BOM)
@@ -63,7 +64,7 @@ The PCB fits perfectly inside the custom 3D printed case (designed with 0.4mm cl
 | **3D Printed Case** | 1 | Files in `3D_Models` folder |
 
 I have used this instead because of the delivery problem:
-| **Seeed XIAO RP2040** | 1 | Microcontroller | https://botland.cz/moduly-wifi-a-bt-esp32/22878-seeed-xiao-esp32-s3-wifi-bluetooth-seeedstudio-113991114.html?gad_source=1&gad_campaignid=23577148779&gclid=CjwKCAjwmJjSBhB-EiwAkZgxi9i7md0e9XIF98DUuVeJgqRCLS8D6LSPELc_fNmlzVBVlpXqy-KcwhoCI2UQAvD_BwE|
+| **Seeed XIAO ESP32S3** | 1 | Microcontroller | https://botland.cz/moduly-wifi-a-bt-esp32/22878-seeed-xiao-esp32-s3-wifi-bluetooth-seeedstudio-113991114.html?gad_source=1&gad_campaignid=23577148779&gclid=CjwKCAjwmJjSBhB-EiwAkZgxi9i7md0e9XIF98DUuVeJgqRCLS8D6LSPELc_fNmlzVBVlpXqy-KcwhoCI2UQAvD_BwE|
 
 ---
 
