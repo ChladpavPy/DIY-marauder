@@ -11,7 +11,6 @@ A custom macro keypad based on the Seeed XIAO RP2040. Designed in KiCad and Fusi
 * **Case:** Custom 3D printed snap-fit enclosure
 
 ## Gallery
-
 ### Build Preview
 ![Build preview](Images/build1.png)
 ![Build preview](Images/build2.png)
