@@ -100,5 +100,5 @@ The firmware itself is around 1100 lines of C++ code. I implemented a WiFi scann
 ![Build preview](Images/MARAUDER_BUILD.jpeg)
 
 
-also regarding the BOM in readme I dont have there links since it should have been shipped from hacklub HQ, but because of the crazy customs cost, I had bought something else from my own. I have used XIAO ESP 32 S3 for this project instead of XIAO RP2040 and that is basically everything, the only difference would be probably just the performance and that I would not have access to wifi functions with RP2040 otherwise the firmware should be suitable for both devices.
+also regarding the BOM in readme I dont have there links since it should have been shipped from hacklub HQ, but because of the crazy customs cost, I had bought something else from my own. I have used XIAO ESP 32 S3 for this project instead of XIAO RP2040 and that is basically everything, the only difference would be probably just the performance and that I would not have access to wifi functions with RP2040 otherwise the firmware should be suitable for both devices. There is also currently no bom.csv because it was not required for HACKPADS - this was a HACKPAD
 
