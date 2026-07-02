@@ -5,8 +5,9 @@ I have made this project because it was my first ever pcb project and I started 
 A custom macro keypad based on the Seeed XIAO RP2040. Designed in KiCad and Fusion 360.
 
 ## Project Features
-* **Microcontroller:** Seeed XIAO RP2040 (USB-C)
-* **Display:** 0.91" OLED (I2C)
+
+* **Microcontroller:** Seeed XIAO ESP32S3 (USB-C) *(Swapped from RP2040 due to delivery issues)*
+* **Display:** 0.96" OLED (I2C) *(Swapped from 0.91")*
 * **Controls:** 1x EC11 Rotary Encoder + 2x Mechanical MX Switches
 * **Case:** Custom 3D printed snap-fit enclosure
 
