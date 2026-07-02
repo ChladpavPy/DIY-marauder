@@ -98,7 +98,7 @@ Looking at the final build it is definitely a prototype. The hot glue and the mi
 ![Build preview](Images/marauder_case.jpeg)
 ![Build preview](Images/marauder_case_rework1.jpeg)
 ![Build preview](Images/marauder_case_rework2.jpeg)
-![Build preview](Images/marauder_test1.jpeg)
+![Build preview](Images/marauder_test1.png)
 
 
 2. journal - writing the firmware and flashing the device - 4 hours 20 minutes
