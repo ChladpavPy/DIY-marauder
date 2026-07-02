@@ -53,20 +53,19 @@ The PCB fits perfectly inside the custom 3D printed case (designed with 0.4mm cl
 
 ---
 
+Here is the updated BOM, previously I would have used XIAO RP2040, but since there was that customs delivery issues, I bought and used some of the remaining components from zeropad project
+
 ## Bill of Materials (BOM)
 
 | Component | Quantity | Description |
 | :--- | :---: | :--- |
-| **Seeed XIAO RP2040** | 1 | Microcontroller |
-| **0.91" OLED Display** | 1 | I2C, SSD1306 driver |
-| **EC11 Rotary Encoder** | 1 | With push button |
-| **MX Mechanical Switches** | 2 | 3-pin or 5-pin |
-| **Keycaps** | 2 | For MX switches |
-| **Knob** | 1 | For encoder |
+| [**Seeed XIAO ESP32S3**](https://botland.cz/moduly-wifi-a-bt-esp32/22878-seeed-xiao-esp32-s3-wifi-bluetooth-seeedstudio-113991114.html) | 1 | Microcontroller (Used instead of RP2040 due to delivery issues) |
+| [**0.96" OLED Display**](https://a.aliexpress.com/_EGSrJ7g) | 1 | I2C, SSD1306 driver (Swapped from 0.91") |
+| [**EC11 Rotary Encoder**](https://www.sparkfun.com/products/9117) | 1 | With push button |
+| [**MX Mechanical Switches**](https://a.aliexpress.com/_EuLENRY) | 2 | 3-pin or 5-pin (Sourced from previous build) |
+| [**Keycaps**](https://a.aliexpress.com/_Eyx6JJo) | 2 | For MX switches |
+| [**Knob**](https://www.sparkfun.com/products/10597) | 1 | For encoder |
 | **3D Printed Case** | 1 | Files in `3D_Models` folder |
-
-I have used this instead because of the delivery problem:
-| **Seeed XIAO ESP32S3** | 1 | Microcontroller | https://botland.cz/moduly-wifi-a-bt-esp32/22878-seeed-xiao-esp32-s3-wifi-bluetooth-seeedstudio-113991114.html?gad_source=1&gad_campaignid=23577148779&gclid=CjwKCAjwmJjSBhB-EiwAkZgxi9i7md0e9XIF98DUuVeJgqRCLS8D6LSPELc_fNmlzVBVlpXqy-KcwhoCI2UQAvD_BwE|
 
 ---
 
