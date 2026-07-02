@@ -64,7 +64,7 @@ Here is the updated BOM, previously I would have used XIAO RP2040, but since the
 | **Cherry MX Switches** | 2 | Secondary input buttons (Sourced from previous build). | ~$6.08 | [AliExpress](https://a.aliexpress.com/_EuLENRY) |
 | **1U Blank Keycaps** | 2 | Standard covers for the mechanical switches. | ~$3.35 | [AliExpress](https://a.aliexpress.com/_Eyx6JJo) |
 | **Knob** | 1 | Cap for the rotary encoder. | ~$1.50 | [SparkFun](https://www.sparkfun.com/products/10597) |
-| **3D Printed Case** | 1 | Enclosure. Files in `3D_Models` folder. | $0.00 | N/A |
+| **3D Printed Case** | 1 | Enclosure. Files in `3D_Models` folder. | $0.00 | printing legion |
 
 ---
 
