@@ -75,7 +75,7 @@ Here is the updated BOM, previously I would have used XIAO RP2040, but since the
 * **3D_Models:** STL and STEP files for printing.
 
 Journals - 
-I am really sorry for the confusion, I thought that I was just submitting it for design review at first in stasis and I noticed it just now, however somehow it shows that it was submitted for build review, so I am adding the journals that I wanted to write in stasis there with time - I hope that it will be okay like this : Journals - 
+I am really sorry for the confusion, I thought that I was just submitting it for design review at first in stasis and I noticed it just now, however somehow it shows that it was submitted for build review, so I am adding the journals that I wanted to write in stasis there with time - I hope that it will be okay like this and also thank you for the review! : Journals - 
 
 1. journal - soldering and first testing - 4 hours
 
@@ -110,5 +110,5 @@ The firmware itself is around 1100 lines of C++ code. I implemented a WiFi scann
 ![Build preview](Images/menu.jpeg)
 
 
-also regarding the BOM in readme I did not have there links since it should have been shipped from hacklub HQ, but actually updated them and addem them because I have used different, which was caused by the delivery problems, the only difference would be probably just the performance and that I would not have access to wifi functions with RP2040 otherwise the firmware should be suitable for both devices. - this was a HACKPAD
+also regarding the BOM in readme I did not have there links before since it should have been shipped from hacklub HQ, but actually updated them and added them because I have used different parts, which was caused by the delivery problems, the only difference would be probably just the performance and that I would not have access to wifi functions with RP2040 otherwise the firmware should be suitable for both devices. - this was a HACKPAD
 
